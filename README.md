@@ -1,2 +1,2 @@
-# fcc-tribute-page
-tribute page for srinivasa ramanujan
+# tribute-page
+### tribute page for srinivasa ramanujan
