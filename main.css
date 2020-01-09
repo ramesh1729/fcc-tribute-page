@@ -1,4 +1,4 @@
-html, body  {
+html  {
     background-color: #999;
     height: 100%;
 }
@@ -6,6 +6,7 @@ html, body  {
 body    {
     width: 80%;
     margin: auto;
+    margin-bottom: 100px;
 }
 
 #title  {
